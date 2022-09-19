@@ -7,7 +7,7 @@ function findFibonacci(index) {
   }
   // add index to index +1
 
-  // return specific fibonacci number [index]
+  // console log specific fibonacci number [index]
   console.log(fibonacci[index]);
 }
 
